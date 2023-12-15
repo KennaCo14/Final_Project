@@ -1,0 +1,5 @@
+When I first made this project, I wanted it to be to hold the name of my books in a sort of library database, so that I would be able to find books I read before in here again. Then I thought about how cool it would be if I had a timer implemented as a sort of challenge, since they encourage me to read more. 
+
+I was able to make it so you could have the title, author, and page numbers saved to a file, along with a timer. However, the title, author, and page numbers don't get put in an alphabetical order. The timer doesn't have a quit early function either. 
+
+I wish I was more organized and ready for this daunting task. I did most of what I wanted, but I could always do better. If I had time, I would make it more perfect. It taught me that this language is still new to me and I need to grow some more. 
